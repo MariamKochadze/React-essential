@@ -1,5 +1,6 @@
 {
   "name": "react-essentials-start",
+  "homepage": "https://mariamkochadze.github.io/React-essential",
   "version": "0.0.0",
   "scripts": {
     "start": "vite",
